@@ -9,7 +9,8 @@ Check out analysis.ipynb in this repo for the analysis and report.
 ---------------
 Updates:
 
-(2021-May-21) - V1.0 of the analysis complete! I might come back to this at a later date for more regression and classification analyses when I learn more.
+(2021-May-24) - V1.0 of the analysis complete! I might come back to this at a later date for more regression and classification analyses when I learn more.
+
 ---------------
 
 My 1st git repo and 1st data science project performed in Python.
