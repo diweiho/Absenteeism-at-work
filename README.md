@@ -1,4 +1,4 @@
-# Absenteeism at work
+# Analyses of Workplace Absenteeism
  
 A simple data analysis looking at absenteeism in a courier company in Brazil from Jul 2007 - Jul 2010.
 
